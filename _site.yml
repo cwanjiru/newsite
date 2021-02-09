@@ -6,3 +6,12 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Contact"
+      href: contact.html
+    - text: "Services"
+      href: services.html
+output:
+  html_document:
+    theme: darkly
+    highlight: pygments
+
