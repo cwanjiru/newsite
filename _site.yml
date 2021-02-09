@@ -14,4 +14,4 @@ output:
   html_document:
     theme: darkly
     highlight: pygments
-
+output_dir: "."
